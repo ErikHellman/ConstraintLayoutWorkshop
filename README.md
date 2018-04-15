@@ -26,4 +26,6 @@ Please see (Animations with ConstraintLayout and ConstraintSet)[https://hellsoft
 
 - [Barriers](https://github.com/ErikHellman/ConstraintLayoutWorkshop/tree/barriers)
 
+In this task you shall use barriers to constraint the start position of the progress bar to two views (The `TextView` and the `Button`).
 
+![Barriers task](barriers_task.png)
