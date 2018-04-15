@@ -20,7 +20,7 @@ Credit to [Rebecca Franks](https://twitter.com/riggaroo) and her presentation [M
 
 The task is to replicate the animation in the picture below. 
 
-Please see (Animations with ConstraintLayout and ConstraintSet)[https://hellsoft.se/animations-with-constraintlayout-and-constraintset-b4634d38981f] for details.
+Please see [Animations with ConstraintLayout and ConstraintSet](https://hellsoft.se/animations-with-constraintlayout-and-constraintset-b4634d38981f) for details.
 
 ![Animation with Guidelines in ConstraintLayout](guidelines_animation.gif)
 
