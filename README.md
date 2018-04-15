@@ -4,11 +4,11 @@ This repository is the base for a workshop where you will learn how to use Const
 
 The workshop is constructed of a number of tasks which each focus on a specific part. The tasks are sorted under different branches in this repository. Images for each part are added to the project. 
 
-- [Refactoring from RelativeLayout and LinearLayout](refactoring) 
+- [Refactoring from RelativeLayout and LinearLayout](https://github.com/ErikHellman/ConstraintLayoutWorkshop/tree/refactoring) 
 
 Refactor the `activity_main.xml` so that it uses only a single `ConstraintLayout`.
 
-- [Movie Rental screen](movie_rental)
+- [Movie Rental screen](https://github.com/ErikHellman/ConstraintLayoutWorkshop/tree/movie_rental)
 
 The task is to create two XML layouts using ConstraintLayout, and animate between them as shown in the picture below.  
 
@@ -16,7 +16,7 @@ Credit to [Rebecca Franks](https://twitter.com/riggaroo) and her presentation [M
 
 ![Animation with ConstraintLayout](animation.gif)
 
-- [Animations with Guidelines](animnations_with_guidelines)
+- [Animations with Guidelines](https://github.com/ErikHellman/ConstraintLayoutWorkshop/tree/animations_with_guidelines)
 
 The task is to replicate the animation in the picture below. 
 
@@ -24,6 +24,6 @@ Please see (Animations with ConstraintLayout and ConstraintSet)[https://hellsoft
 
 ![Animation with Guidelines in ConstraintLayout](guidelines_animation.gif)
 
-- [Barriers](barriers)
+- [Barriers](https://github.com/ErikHellman/ConstraintLayoutWorkshop/tree/barriers)
 
 
